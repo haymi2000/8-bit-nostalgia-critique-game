@@ -13,4 +13,4 @@
 ​GitHub Pages – Deployment and hosting.
 
 ​🔗 Live Demo
-​View the Live Project
+​View the Live Project(https://haymi2000.github.io/8-bit-nostalgia-critique-game/)
